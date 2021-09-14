@@ -34,7 +34,7 @@ You can view Amazon Shipping Analytics Dashboard on my Tableau Public Profile li
 
 ##  Amazon Shipping Analytics Dashboard
 
-<img src="https://github.com/utkarsh-yadav1231/Tableau-Projects/blob/master/Amazon%20Shipping%20Analytics/Screenshots/Amazon%20Shipping%20Analytics%20Image.PNG" alt="SS 1"/>
+<img src="https://github.com/goutam63/tableau-projects/blob/main/Amazon%20Shipping%20Analytics/screenshot/Amazon%20Shipping%20Analytics%20Image.PNG" alt="SS 1"/>
 
 
 
