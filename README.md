@@ -12,6 +12,8 @@ Tableau is basically a data visualization tool which provides pictorial and grap
 
 [Installation](#installation)
 
+[Refrences](#Refrences)
+
 # Demo 
 Link:https://public.tableau.com/app/profile/goutam3069
 
@@ -63,5 +65,9 @@ Step 3) Open the downloaded file. Accept the terms and conditions and click on â
 
 Step 4) After installation Start Screen of Tableau is shown
 ![image](https://user-images.githubusercontent.com/76108394/133360448-f5cf13b0-c9f6-4096-95f6-57462e4f4fec.png)
+
+### Refrences
+https://www.youtube.com/watch?v=gWZtNdMko1k&list=PLWPirh4EWFpGXTBu8ldLZGJCUeTMBpJFK
+https://www.javatpoint.com/tableau
 
 
