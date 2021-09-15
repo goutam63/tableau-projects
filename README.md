@@ -5,8 +5,11 @@ It is the best way to change or transform the raw set of data into an easily und
 Tableau is basically a data visualization tool which provides pictorial and graphical representations of data.
 # Table of content
 Demo 
+
 Overview
+
 Motivation
+
 Installation
 
 # Demo 
@@ -19,6 +22,7 @@ Link:https://public.tableau.com/app/profile/goutam3069
 
 <img src="https://github.com/goutam63/tableau-projects/blob/main/UT%20Mart%20Sales%20Analytics/sc/UT%20Mart%20Sales%20PNG.PNG" alt="SS 3"/>
 ### overview
+
 Amazon Shipping is a company which ships a variety of FMCG (Fast Moving Consumer Goods) all over the world.
 
 The Shipping Manager doesn't have much visibility and doesn't know how many orders are processed and shipped on a monthly basis.
