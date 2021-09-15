@@ -4,13 +4,13 @@ It is the best way to change or transform the raw set of data into an easily und
 
 Tableau is basically a data visualization tool which provides pictorial and graphical representations of data.
 # Table of content
-Demo 
+[Demo](#Demo) 
 
-Overview
+[Overview](#overview)
 
-Motivation
+[Motivation](#Motivation)
 
-Installation
+[Installation](#installation)
 
 # Demo 
 Link:https://public.tableau.com/app/profile/goutam3069
