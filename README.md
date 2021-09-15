@@ -14,6 +14,7 @@ Tableau is basically a data visualization tool which provides pictorial and grap
 
 # Demo 
 Link:https://public.tableau.com/app/profile/goutam3069
+
 ##  Amazon Shipping Analytics Dashboard
 
 <img src="https://github.com/goutam63/tableau-projects/blob/main/Amazon%20Shipping%20Analytics/screenshot/Amazon%20Shipping%20Analytics%20Image.PNG" alt="SS 1"/>
@@ -21,6 +22,7 @@ Link:https://public.tableau.com/app/profile/goutam3069
 ##  UT Mart Sales Analytics Dashboard
 
 <img src="https://github.com/goutam63/tableau-projects/blob/main/UT%20Mart%20Sales%20Analytics/sc/UT%20Mart%20Sales%20PNG.PNG" alt="SS 3"/>
+
 ### overview
 
 Amazon Shipping is a company which ships a variety of FMCG (Fast Moving Consumer Goods) all over the world.
