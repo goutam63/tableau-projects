@@ -48,6 +48,9 @@ He has given us csv files from which we have to create a Dashboard for his quick
 
 Thus, we created below interactive dashboard as per his requirement. Now, he could switch and view different shipping stats for different months and years. 
 
+### Motivation
+Tableau software is used to translate queries into visualization.It is also used for managing metadata.Tableau software imports data of all sizes and ranges.For a non-technical user, Tableau is a life saver as it offers the facility to create ‘no-code’ data queries.Ever since it was introduced, this data visualization tool is used for Business Intelligence industry. Organizations like Amazon, Walmart, Accenture, Lenovo, and so on widely use Tableau.
+
 ### installation
 Step 1) Go to https://public.tableau.com/en-us/s/download on your web browser. Now you need to enter your email id and click on “DOWNLOAD THE APP” button.
 ![image](https://user-images.githubusercontent.com/76108394/133360199-e403a013-a9e8-412b-ac65-29a78929d18c.png)
